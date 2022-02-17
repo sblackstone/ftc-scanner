@@ -1,0 +1,4 @@
+companyfacts/
+ticker.txt
+*.zip
+node_modules/
